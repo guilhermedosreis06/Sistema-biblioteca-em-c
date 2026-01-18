@@ -1,3 +1,16 @@
+/*
+ Sistema de Gerenciamento de Biblioteca
+ Linguagem: C
+
+ Funcionalidades:
+ - Cadastro de livros (CRUD)
+ - Consulta e atualização
+ - Listagem de livros
+ - Relatórios
+
+ Projeto acadêmico para prática de programação estruturada
+*/
+
 #include <stdio.h>
 
 struct livro {
